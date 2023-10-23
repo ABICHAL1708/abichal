@@ -1,7 +1,10 @@
 function MyHeading(){
     return(
         <div>
-            Check
+            <h1>Abichal Ghosh</h1>
+            <p>
+                Testing Deploy
+            </p>
         </div>
     )
 }
